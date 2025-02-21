@@ -1,4 +1,4 @@
-package pixel.academy.bean_finder;
+package pixel.academy.util;
 
 public interface Chef {
 
